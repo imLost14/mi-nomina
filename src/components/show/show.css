@@ -1,3 +1,7 @@
+.table-responsive {
+  overflow-x: auto;
+}
 .show-table {
   box-shadow: 2px 2px 7px 2px #575757;
+  
 }

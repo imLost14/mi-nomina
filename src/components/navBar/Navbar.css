@@ -83,8 +83,17 @@
     }
     .navbar-nav {
       position: relative;
-      top: -15%;
+      top: -04%;
       left: -8%;
     }
+    
+
+    .navbar-toggler {
+    position: fixed;
+    top: 17%;
+    left: 3.5%;
+    }
+
+
 
 }

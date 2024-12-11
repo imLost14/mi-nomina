@@ -1,3 +1,7 @@
-header {
+.header {
+  box-sizing: border-box;
+}
+
+.heder h1 {
   box-sizing: border-box;
 }
