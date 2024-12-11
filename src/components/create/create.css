@@ -1,0 +1,13 @@
+.create {
+  background-color: rgba(248, 248, 248, 1);;
+  border-radius: 10px;
+  height: 85%;
+  right: 5%;
+  box-shadow: 2px 2px 7px 2px #575757;
+}
+
+@media(max-width:780px) {
+  .container {
+    max-height: 70%;
+  }
+}

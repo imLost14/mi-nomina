@@ -1,0 +1,24 @@
+/* src/components/home/Home.css */
+.inicio {
+  text-align: center;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 12%;
+}
+
+.inicio h1 {
+  font-size: 4.8em;
+  font-weight: 350;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.inicio h2 {
+  font-size: 6.6em;
+  font-weight: 700;
+  color: #555;
+  
+}
