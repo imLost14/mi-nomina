@@ -47,7 +47,7 @@ const store= async (e)=>{
     fld_cargo: cargoSeleccionado ? cargoSeleccionado.value : null
   })
   MySwal.fire({
-        title: 'Registro editado',
+        title: 'Registro Creado',
         text: 'El registro ha sido editado con éxito',
         icon: 'success'
       })
